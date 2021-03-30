@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/deepak/.cache/gnome-builder/install/sample-app.Circleci/host
+app-id=
+postbuild=
+prebuild=
+default=true
