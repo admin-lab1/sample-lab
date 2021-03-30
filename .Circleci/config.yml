@@ -2,7 +2,7 @@ version: 2.1
 executors:
  docker-publisher:
    environment:
-     IMAGE_NAME: vishnusk/circleci-test
+     IMAGE_NAME: 123456project/circleci-test
    docker:
      - image: circleci/buildpack-deps:trusty
 jobs:
